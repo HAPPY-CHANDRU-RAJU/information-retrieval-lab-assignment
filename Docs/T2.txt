@@ -1,0 +1,378 @@
+[1] _The Romance of Astronomy_, by H. Macpherson.
+
+[Illustration: FIG. 5.--DIAGRAM SHOWING THE MAIN LAYERS OF THE SUN
+
+Compare with frontispiece.]
+
+[Illustration: _Photo: Royal Observatory, Greenwich._
+
+FIG. 6.--SOLAR PROMINENCES SEEN AT TOTAL SOLAR ECLIPSE, May 29, 1919.
+TAKEN AT SOBRAL, BRAZIL.
+
+The small Corona is also visible.]
+
+[Illustration: FIG. 7.--THE VISIBLE SURFACE OF THE SUN
+
+A photograph taken at the Mount Wilson Observatory of the Carnegie
+Institution at Washington.]
+
+[Illustration: FIG. 8.--THE SUN
+
+Photographed in the light of glowing hydrogen, at the Mount Wilson
+Observatory of the Carnegie Institution of Washington: vortex phenomena
+near the spots are especially prominent.]
+
+The fourth and uppermost layer or region is that of the corona, of
+immense extent and fading away into the surrounding sky--this we have
+already referred to. The diagram (Fig. 5) shows the dispositions of
+these various layers of the sun. It is through these several transparent
+layers that we see the white light body of the sun.
+
+
+§ 2
+
+The Surface of the Sun
+
+Here let us return to and see what more we know about the
+photosphere--the sun's surface. It is from the photosphere that we have
+gained most of our knowledge of the composition of the sun, which is
+believed not to be a solid body. Examination of the photosphere shows
+that the outer surface is never at rest. Small bright cloudlets come and
+go in rapid succession, giving the surface, through contrasts in
+luminosity, a granular appearance. Of course, to be visible at all at
+92,830,000 miles the cloudlets cannot be small. They imply enormous
+activity in the photosphere. If we might speak picturesquely the sun's
+surface resembles a boiling ocean of white-hot metal vapours. We have
+to-day a wonderful instrument, which will be described later, which
+dilutes, as it were, the general glare of the sun, and enables us to
+observe these fiery eruptions at any hour. The "oceans" of red-hot gas
+and white-hot metal vapour at the sun's surface are constantly driven by
+great storms. Some unimaginable energy streams out from the body or
+muscles of the sun and blows its outer layers into gigantic shreds, as
+it were.
+
+The actual temperature at the sun's surface, or what appears to us to be
+the surface--the photosphere--is, of course, unknown, but careful
+calculation suggests that it is from 5,000° C. to 7,000° C. The interior
+is vastly hotter. We can form no conception of such temperatures as must
+exist there. Not even the most obdurate solid could resist such
+temperatures, but would be converted almost instantaneously into gas.
+But it would not be gas as we know gases on the earth. The enormous
+pressures that exist on the sun must convert even gases into thick
+treacly fluids. We can only infer this state of matter. It is beyond our
+power to reproduce it.
+
+
+Sun-spots
+
+It is in the brilliant photosphere that the dark areas known as
+sun-spots appear. Some of these dark spots--they are dark only by
+contrast with the photosphere surrounding them--are of enormous size,
+covering many thousands of square miles of surface. What they are we
+cannot positively say. They look like great cavities in the sun's
+surface. Some think they are giant whirlpools. Certainly they seem to be
+great whirling streams of glowing gases with vapours above them and
+immense upward and downward currents within them. Round the edges of the
+sun-spots rise great tongues of flame.
+
+Perhaps the most popularly known fact about sun-spots is that they are
+somehow connected with what we call magnetic storms on earth. These
+magnetic storms manifest themselves in interruptions of our telegraphic
+and telephonic communications, in violent disturbances of the mariner's
+compass, and in exceptional auroral displays. The connection between the
+two sets of phenomena cannot be doubted, even although at times there
+may be a great spot on the sun without any corresponding "magnetic
+storm" effects on the earth.
+
+A surprising fact about sun-spots is that they show definite periodic
+variations in number. The best-defined period is one of about eleven
+years. During this period the spots increase to a maximum in number and
+then diminish to a minimum, the variation being more or less regular.
+Now this can only mean one thing. To be periodic the spots must have
+some deep-seated connection with the fundamental facts of the sun's
+structure and activities. Looked at from this point of view their
+importance becomes great.
+
+[Illustration: _Reproduction from "The Forces of Nature"_ (_Messrs.
+Macmillan_)
+
+THE AURORA BOREALIS
+
+The aurora borealis is one of the most beautiful spectacles in the sky.
+The colours and shape change every instant; sometimes a fan-like cluster
+of rays, at other times long golden draperies gliding one over the
+other. Blue, green, yellow, red, and white combine to give a glorious
+display of colour. The theory of its origin is still, in part, obscure,
+but there can be no doubt that the aurora is related to the magnetic
+phenomena of the earth and therefore is connected with the electrical
+influence of the sun.]
+
+It is from the study of sun-spots that we have learned that the sun's
+surface does not appear to rotate all at the same speed. The
+"equatorial" regions are rotating quicker than regions farther north or
+south. A point forty-five degrees from the equator seems to take about
+two and a half days longer to complete one rotation than a point on the
+equator. This, of course, confirms our belief that the sun cannot be a
+solid body.
+
+What is its composition? We know that there are present, in a gaseous
+state, such well-known elements as sodium, iron, copper, zinc, and
+magnesium; indeed, we know that there is practically every element in
+the sun that we know to be in the earth. How do we know?
+
+It is from the photosphere, as has been said, that we have won most of
+our knowledge of the sun. The instrument used for this purpose is the
+spectroscope; and before proceeding to deal further with the sun and the
+source of its energy it will be better to describe this instrument.
+
+
+A WONDERFUL INSTRUMENT AND WHAT IT REVEALS
+
+The spectroscope is an instrument for analysing light. So important is
+it in the revelations it has given us that it will be best to describe
+it fully. Every substance to be examined must first be made to glow,
+made luminous; and as nearly everything in the heavens _is_ luminous the
+instrument has a great range in Astronomy. And when we speak of
+analysing light, we mean that the light may be broken up into waves of
+different lengths. What we call light is a series of minute waves in
+ether, and these waves are--measuring them from crest to crest, so to
+say--of various lengths. Each wave-length corresponds to a colour of the
+rainbow. The shortest waves give us a sensation of violet colour, and
+the largest waves cause a sensation of red. The rainbow, in fact, is a
+sort of natural spectrum. (The meaning of the rainbow is that the
+moisture-laden air has sorted out these waves, in the sun's light,
+according to their length.) Now the simplest form of spectroscope is a
+glass prism--a triangular-shaped piece of glass. If white light
+(sunlight, for example) passes through a glass prism, we see a series of
+rainbow-tinted colours. Anyone can notice this effect when sunlight is
+shining through any kind of cut glass--the stopper of a wine decanter,
+for instance. If, instead of catching with the eye the coloured lights
+as they emerge from the glass prism, we allow them to fall on a screen,
+we shall find that they pass, by continuous gradations, from red at the
+one end of the screen, through orange, yellow, green, blue, and indigo,
+to violet at the other end. _In other words, what we call white light is
+composed of rays of these several colours. They go to make up the effect
+which we call white._ And now just as water can be split up into its two
+elements, oxygen and hydrogen, so sunlight can be broken up into its
+primary colours, which are those we have just mentioned.
+
+This range of colours, produced by the spectroscope, we call the solar
+spectrum, and these are, from the spectroscopic point of view, primary
+colours. Each shade of colour has its definite position in the spectrum.
+That is to say, the light of each shade of colour (corresponding to its
+wave-length) is reflected through a certain fixed angle on passing
+through the glass prism. Every possible kind of light has its definite
+position, and is denoted by a number which gives the wave-length of the
+vibrations constituting that particular kind of light.
+
+Now, other kinds of light besides sunlight can be analysed. Light
+from any substance which has been made incandescent may be observed with
+the spectroscope in the same way, and each element can be thus
+separated. It is found that each substance (in the same conditions of
+pressure, etc.) gives a constant spectrum of its own. _Each metal
+displays its own distinctive colour. It is obvious, therefore, that the
+spectrum provides the means for identifying a particular substance._ It
+was by this method that we discovered in the sun the presence of such
+well-known elements as sodium, iron, copper, zinc, and magnesium.
+
+[Illustration: _Yerkes Observatory._
+
+FIG. 9.--THE GREAT SUN-SPOT OF JULY 17, 1905]
+
+[Illustration: _From photographs taken at the Yerkes Observatory._
+
+FIG. 10.--SOLAR PROMINENCES
+
+These are about 60,000 miles in height. The two photographs show the
+vast changes occurring in ten minutes. October 10, 1910.]
+
+[Illustration: _Photo: Mount Wilson Observatory._
+
+FIG. 11.--MARS, October 5, 1909
+
+Showing the dark markings and the Polar Cap.]
+
+[Illustration: FIG. 12.--JUPITER
+
+Showing the belts which are probably cloud formations.]
+
+[Illustration: _Photo: Professor E. E. Barnard, Yerkes Observatory._
+
+FIG. 13.--SATURN, November 19, 1911
+
+Showing the rings, mighty swarms of meteorites.]
+
+Every chemical element known, then, has a distinctive spectrum of its
+own when it is raised to incandescence, and this distinctive spectrum is
+as reliable a means of identification for the element as a human face is
+for its owner. Whether it is a substance glowing in the laboratory or in
+a remote star makes no difference to the spectroscope; if the light of
+any substance reaches it, that substance will be recognised and
+identified by the characteristic set of waves.
+
+The spectrum of a glowing mass of gas will consist in a number of bright
+lines of various colours, and at various intervals; corresponding to
+each kind of gas, there will be a peculiar and distinctive arrangement
+of bright lines. But if the light from such a mass of glowing gas be
+made to pass through a cool mass of the _same_ gas it will be found that
+dark lines replace the bright lines in the spectrum, the reason for this
+being that the cool gas absorbs the rays of light emitted by the hot
+gas. Experiments of this kind enable us to reach the important general
+statement that every gas, when cold, absorbs the same rays of light
+which it emits when hot.
+
+Crossing the solar spectrum are hundreds and hundreds of dark lines.
+These could not at first be explained, because this fact of
+discriminative absorption was not known. We understand now. The sun's
+white light comes from the photosphere, but between us and the
+photosphere there is, as we have seen, another solar envelope of
+relatively cooler vapours--the reversing layer. Each constituent
+element in this outer envelope stops its own kind of light, that is, the
+kind of light made by incandescent atoms of the same element in the
+photosphere. The "stoppages" register themselves in the solar spectrum
+as dark lines placed exactly where the corresponding bright lines would
+have been. The explanation once attained, dark lines became as
+significant as bright lines. The secret of the sun's composition was
+out. We have found practically every element in the sun that we know to
+be in the earth. We have identified an element in the sun before we were
+able to isolate it on the earth. We have been able even to point to the
+coolest places on the sun, the centres of sun-spots, where alone the
+temperature seems to have fallen sufficiently low to allow chemical
+compounds to form.
+
+It is thus we have been able to determine what the stars, comets, or
+nebulæ are made of.
+
+
+A Unique Discovery
+
+In 1868 Sir Norman Lockyer detected a light coming from the prominences
+of the sun which was not given by any substance known on earth, and
+attributed this to an unknown gas which he called helium, from the Greek
+_helios_, the sun. _In 1895 Sir William Ramsay discovered in certain
+minerals the same gas identified by the spectroscope._ We can say,
+therefore, that this gas was discovered in the sun nearly thirty years
+before it was found on earth; this discovery of the long-lost heir is as
+thrilling a chapter in the detective story of science as any in the
+sensational stories of the day, and makes us feel quite certain that our
+methods really tell us of what elements sun and stars are built up. The
+light from the corona of the sun, as we have mentioned indicates a gas
+still unknown on earth, which has been christened Coronium.
+
+
+Measuring the Speed of Light
+
+But this is not all; soon a new use was found for the spectroscope. We
+found that we could measure with it the most difficult of all speeds
+to measure, speed in the line of sight. Movement at right angles to the
+direction in which one is looking is, if there is sufficient of it, easy
+to detect, and, if the distance of the moving body is known, easy to
+measure. But movement in the line of vision is both difficult to detect
+and difficult to measure. Yet, even at the enormous distances with which
+astronomers have to deal, the spectroscope can detect such movement and
+furnish data for its measurement. If a luminous body containing, say,
+sodium is moving rapidly towards the spectroscope, it will be found that
+the sodium lines in the spectrum have moved slightly from their usual
+definite positions towards the violet end of the spectrum, the amount of
+the change of position increasing with the speed of the luminous body.
+If the body is moving away from the spectroscope the shifting of the
+spectral lines will be in the opposite direction, towards the red end of
+the spectrum. In this way we have discovered and measured movements that
+otherwise would probably not have revealed themselves unmistakably to us
+for thousands of years. In the same way we have watched, and measured
+the speed of, tremendous movements on the sun, and so gained proof that
+the vast disturbances we should expect there actually do occur.
+
+[Illustration: THE SPECTROSCOPE IS AN INSTRUMENT FOR ANALYSING LIGHT; IT
+PROVIDES THE MEANS FOR IDENTIFYING DIFFERENT SUBSTANCES
+
+This pictorial diagram illustrates the principal of Spectrum Analysis,
+showing how sunlight is decomposed into its primary colours. What we
+call white light is composed of seven different colours. The diagram is
+relieved of all detail which would unduly obscure the simple process by
+which a ray of light is broken up by a prism into different
+wave-lengths. The spectrum rays have been greatly magnified.]
+
+
+IS THE SUN DYING?
+
+§ 3
+
+Now let us return to our consideration of the sun.
+
+To us on the earth the most patent and most astonishing fact about the
+sun is its tremendous energy. Heat and light in amazing quantities pour
+from it without ceasing.
+
+Where does this energy come from? Enormous jets of red glowing gases can
+be seen shooting outwards from the sun, like flames from a fire, for
+thousands of miles. Does this argue fire, as we know fire on the earth?
+On this point the scientist is sure. The sun is not burning, and
+combustion is not the source of its heat. Combustion is a chemical
+reaction between atoms. The conditions that make it possible are known
+and the results are predictable and measurable. But no chemical reaction
+of the nature of combustion as we know it will explain the sun's energy,
+nor indeed will any ordinary chemical reaction of any kind. If the sun
+were composed of combustible material throughout and the conditions of
+combustion as we understand them were always present, the sun would burn
+itself out in some thousands of years, with marked changes in its heat
+and light production as the process advanced. There is no evidence of
+such changes. There is, instead, strong evidence that the sun has been
+emitting light and heat in prodigious quantities, not for thousands, but
+for millions of years. Every addition to our knowledge that throws light
+on the sun's age seems to make for increase rather than decrease of its
+years. This makes the wonder of its energy greater.
+
+And we cannot avoid the issue of the source of the energy by saying
+merely that the sun is gradually radiating away an energy that
+originated in some unknown manner, away back at the beginning of things.
+Reliable calculations show that the years required for the mere cooling
+of a globe like the sun could not possibly run to millions. In other
+words, the sun's energy must be subject to continuous and more or less
+steady renewal. However it may have acquired its enormous energy in the
+past, it must have some source of energy in the present.
+
+The best explanation that we have to-day of this continuous accretion of
+energy is that it is due to shrinkage of the sun's bulk under the force
+of gravity. Gravity is one of the most mysterious forces of nature, but
+it is an obvious fact that bodies behave as if they attracted one
+another, and Newton worked out the law of this attraction. We may say,
+without trying to go too deeply into things, that every particle of
+matter attracts every other throughout the universe. If the diameter of
+the sun were to shrink by one mile all round, this would mean that all
+the millions of tons in the outer one-mile thickness would have a
+straight drop of one mile towards the centre. And that is not all,
+because obviously the layers below this outer mile would also drop
+inwards, each to a less degree than the one above it. What a tremendous
+movement of matter, however slowly it might take place! And what a
+tremendous energy would be involved! Astronomers calculate that the
+above shrinkage of one mile all round would require fifty years for its
+completion, assuming, reasonably, that there is close and continuous
+relationship between loss of heat by radiation and shrinkage. Even if
+this were true we need not feel over-anxious on this theory; before the
+sun became too cold to support life many millions of years would be
+required.
+
+It was suggested at one time that falls of meteoric matter into the sun
+would account for the sun's heat. This position is hardly tenable now.
+The mere bulk of the meteoric matter required by the hypothesis, apart
+from other reasons, is against it. There is undoubtedly an enormous
+amount of meteoric matter moving about within the bounds of the solar
+system, but most of it seems to be following definite routes round the
+sun like the planets. The stray erratic quantities destined to meet
+their doom by collision with the sun can hardly be sufficient to account
+for the sun's heat.
+
+Recent study of radio-active bodies has suggested another factor that
+may be working powerfully along with the force of gravitation to
+maintain the sun's store of heat. In radio-active bodies certain atoms
+seem to be undergoing disintegration. These atoms appear to be splitting
+up into very minute and primitive constituents. But since matter may be
+split up into such constituents, may it not be built up from them?
+
+The question is whether these "radio-active" elements are undergoing
+disintegration, or formation, in the sun. If they are undergoing
+disintegration--and the sun itself is undoubtedly radio-active--then we
+have another source of heat for the sun that will last indefinitely.
+
+

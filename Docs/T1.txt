@@ -1,0 +1,1498 @@
+he Project Gutenberg EBook of The Outline of Science, Vol. 1 (of 4), by 
+J. Arthur Thomson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Outline of Science, Vol. 1 (of 4)
+       A Plain Story Simply Told
+
+Author: J. Arthur Thomson
+
+Release Date: January 22, 2007 [EBook #20417]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OUTLINE OF SCIENCE ***
+
+
+
+
+Produced by Brian Janes, Leonard Johnson and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+[Illustration: THE GREAT SCARLET SOLAR PROMINENCES, WHICH ARE SUCH A
+NOTABLE FEATURE OF THE SOLAR PHENOMENA, ARE IMMENSE OUTBURSTS OF FLAMING
+HYDROGEN RISING SOMETIMES TO A HEIGHT OF 500,000 MILES]
+
+
+
+
+THE
+OUTLINE OF SCIENCE
+
+A PLAIN STORY SIMPLY TOLD
+
+
+
+EDITED BY
+J. ARTHUR THOMSON
+REGIUS PROFESSOR OF NATURAL HISTORY IN THE
+UNIVERSITY OF ABERDEEN
+
+
+
+WITH OVER 800 ILLUSTRATIONS
+OF WHICH ABOUT 40 ARE IN COLOUR
+
+
+IN FOUR VOLUMES
+
+
+
+G. P. PUTNAM'S SONS
+NEW YORK AND LONDON
+The Knickerbocker press
+
+
+
+
+Copyright, 1922
+by
+G. P. Putnam's Sons
+
+
+
+_First Printing April, 1922
+Second Printing April, 1922
+Third Printing April, 1922
+Fourth Printing April, 1922
+Fifth Printing June, 1922
+Sixth Printing June, 1922
+Seventh Printing June, 1922
+Eighth Printing June, 1922
+Ninth Printing August, 1922
+Tenth Printing September, 1922
+Eleventh Printing Sept., 1922
+Twelfth Printing, May, 1924_
+
+
+Made in the United States of America
+
+
+
+
+INTRODUCTORY NOTE
+
+By Professor J. Arthur Thomson
+
+
+Was it not the great philosopher and mathematician Leibnitz who said
+that the more knowledge advances the more it becomes possible to
+condense it into little books? Now this "Outline of Science" is
+certainly not a little book, and yet it illustrates part of the meaning
+of Leibnitz's wise saying. For here within reasonable compass there is a
+library of little books--an outline of many sciences.
+
+It will be profitable to the student in proportion to the discrimination
+with which it is used. For it is not in the least meant to be of the
+nature of an Encyclopædia, giving condensed and comprehensive articles
+with a big full stop at the end of each. Nor is it a collection of
+"primers," beginning at the very beginning of each subject and working
+methodically onwards. That is not the idea.
+
+What then is the aim of this book? It is to give the intelligent
+student-citizen, otherwise called "the man in the street," a bunch of
+intellectual keys by which to open doors which have been hitherto shut
+to him, partly because he got no glimpse of the treasures behind the
+doors, and partly because the portals were made forbidding by an
+unnecessary display of technicalities. Laying aside conventional modes
+of treatment and seeking rather to open up the subject as one might on a
+walk with a friend, the work offers the student what might be called
+informal introductions to the various departments of knowledge. To put
+it in another way, the articles are meant to be clues which the reader
+may follow till he has left his starting point very far behind. Perhaps
+when he has gone far on his own he will not be ungrateful to the simple
+book of "instructions to travellers" which this "Outline of Science" is
+intended to be. The simple "bibliographies" appended to the various
+articles will be enough to indicate "first books." Each article is meant
+to be an invitation to an intellectual adventure, and the short lists of
+books are merely finger-posts for the beginning of the journey.
+
+We confess to being greatly encouraged by the reception that has been
+given to the English serial issue of "The Outline of Science." It has
+been very hearty--we might almost say enthusiastic. For we agree with
+Professor John Dewey, that "the future of our civilisation depends upon
+the widening spread and deepening hold of the scientific habit of mind."
+And we hope that this is what "The Outline of Science" makes for.
+Information is all to the good; interesting information is better still;
+but best of all is the education of the scientific habit of mind.
+Another modern philosopher, Professor L. T. Hobhouse, has declared that
+the evolutionist's mundane goal is "the mastery by the human mind of the
+conditions, internal as well as external, of its life and growth." Under
+the influence of this conviction "The Outline of Science" has been
+written. For life is not for science, but science for life. And even
+more than science, to our way of thinking, is the individual development
+of the scientific way of looking at things. Science is our legacy; we
+must use it if it is to be our very own.
+
+
+
+
+CONTENTS
+
+
+INTRODUCTION                                                           3
+
+I. THE ROMANCE OF THE HEAVENS                                          7
+
+  The scale of the universe--The solar system--Regions of
+    the sun--The surface of the sun--Measuring the speed of
+    light--Is the sun dying?--The planets--Venus--Is there
+    life on Mars?--Jupiter and Saturn--The moon--The
+    mountains of the moon--Meteors and comets--Millions of
+    meteorites--A great comet--The stellar universe--The
+    evolution of stars--The age of stars--The nebular
+    theory--Spiral nebulæ--The birth and death of
+    stars--The shape of our universe--Astronomical
+    instruments.
+
+II. THE STORY OF EVOLUTION                                            53
+
+  The beginning of the earth--Making a home for life--The
+    first living creatures--The first plants--The first
+    animals--Beginnings of bodies--Evolution of
+    sex--Beginning of natural death--Procession of life
+    through the ages--Evolution of land animals--The flying
+    dragons--The first known bird--Evidences of
+    evolution--Factors in evolution.
+
+III. ADAPTATIONS TO ENVIRONMENT                                      113
+
+  The shore of the sea--The open sea--The deep sea--The
+    fresh waters--The dry land--The air.
+
+IV. THE STRUGGLE FOR EXISTENCE                                       135
+
+  Animal and bird mimicry and disguise--Other kinds of
+    elusiveness.
+
+V. THE ASCENT OF MAN                                                 153
+
+  Anatomical proof of man's relationship with a Simian
+    stock--Physiological proof--Embryological proof--Man's
+    pedigree--Man's arboreal apprenticeship--Tentative
+    men--Primitive men--Races of mankind--Steps in human
+    evolution--Factors in human progress.
+
+VI. EVOLUTION GOING ON                                               183
+
+  Evolutionary prospect for man--The fountain of change;
+    variability--Evolution of plants--Romance of
+    wheat--Changes in animal life--Story of the
+    salmon--Forming new habits--Experiments in locomotion;
+    new devices.
+
+VII. THE DAWN OF MIND                                                205
+
+  A caution in regard to instinct--A useful law--Senses of
+    fishes--The mind of a minnow--The mind and senses of
+    amphibians--The reptilian mind--Mind in
+    birds--Intelligence co-operating with instinct--The
+    mind of the mammal--Instinctive aptitudes--Power of
+    association--Why is there not more intelligence?--The
+    mind of monkeys--Activity for activity's
+    sake--Imitation--The mind of man--Body and mind.
+
+VIII. FOUNDATIONS OF THE UNIVERSE                                    243
+
+  The world of atoms--The energy of atoms--The discovery of
+    X-rays--The discovery of radium--The discovery of the
+    electron--The electron theory--The structure of the
+    atom--The new view of matter--Other new views--The
+    nature of electricity--Electric current--The
+    dynamo--Magnetism--Ether and waves--Light--What the
+    blue "sky" means--Light without heat--Forms of
+    energy--What heat is--Substitutes for coal--Dissipation
+    of energy--What a uniform temperature would
+    mean--Matter, ether, and Einstein--The tides--Origin of
+    the moon--The earth slowing down--The day becoming
+    longer.
+
+
+
+
+ILLUSTRATIONS
+
+
+                                                                 FACING
+                                                                 PAGE
+
+THE GREAT SCARLET SOLAR PROMINENCES, WHICH ARE SUCH A
+  NOTABLE FEATURE OF THE SOLAR PHENOMENA, ARE IMMENSE
+  OUTBURSTS OF FLAMING HYDROGEN RISING SOMETIMES TO A
+  HEIGHT OF 500,000 MILES
+                                                _Coloured Frontispiece_
+
+LAPLACE                                                           10
+
+PROFESSOR J. C. ADAMS                                             10
+    Photo: Royal Astronomical Society.
+
+PROFESSOR EDDINGTON OF CAMBRIDGE UNIVERSITY                       10
+    Photo: Elliot & Fry, Ltd.
+
+THE PLANETS, SHOWING THEIR RELATIVE DISTANCES AND
+  DIMENSIONS                                                      11
+
+THE MILKY WAY                                                     14
+    Photo: Harvard College Observatory.
+
+THE MOON ENTERING THE SHADOW CAST BY THE EARTH                    14
+
+THE GREAT NEBULA IN ANDROMEDA, MESSIER 31                         15
+    From a photograph taken at the Yerkes Observatory.
+
+DIAGRAM SHOWING THE MAIN LAYERS OF THE SUN                        18
+
+SOLAR PROMINENCES SEEN AT TOTAL SOLAR ECLIPSE, MAY 29,
+  1919. TAKEN AT SOBRAL, BRAZIL                                   18
+    Photo: Royal Observatory, Greenwich.
+
+THE VISIBLE SURFACE OF THE SUN                                    19
+    Photo: Mount Wilson Observatory.
+
+THE SUN PHOTOGRAPHED IN THE LIGHT OF GLOWING HYDROGEN             19
+    Photo: Mount Wilson Observatory.
+
+THE AURORA BOREALIS (_Coloured Illustration_)                     20
+    Reproduced from _The Forces of Nature_ (Messrs. Macmillan)
+
+THE GREAT SUN-SPOT OF JULY 17, 1905                               22
+    Yerkes Observatory.
+
+SOLAR PROMINENCES                                                 22
+    From photographs taken at the Yerkes Observatory.
+
+MARS, OCTOBER 5, 1909                                             23
+    Photo: Mount Wilson Observatory.
+
+JUPITER                                                           23
+
+SATURN, NOVEMBER 19, 1911                                         23
+    Photo: Professor E. E. Barnard, Yerkes Observatory.
+
+THE SPECTROSCOPE, AN INSTRUMENT FOR ANALYSING LIGHT; IT
+  PROVIDES MEANS FOR IDENTIFYING SUBSTANCES (_Coloured
+  Illustration_)                                                  24
+
+THE MOON                                                          28
+
+MARS                                                              29
+    Drawings by Professor Percival Lowell.
+
+THE MOON, AT NINE AND THREE QUARTER DAYS                          29
+
+A MAP OF THE CHIEF PLAINS AND CRATERS OF THE MOON                 32
+
+A DIAGRAM OF A STREAM OF METEORS SHOWING THE EARTH PASSING
+  THROUGH THEM                                                    32
+
+COMET, SEPTEMBER 29, 1908                                         33
+    Photo: Royal Observatory, Greenwich.
+
+COMET, OCTOBER 3, 1908                                            33
+    Photo: Royal Observatory, Greenwich.
+
+TYPICAL SPECTRA                                                   36
+    Photo: Harvard College Observatory.
+
+A NEBULAR REGION SOUTH OF ZETA ORIONIS                            37
+    Photo: Mount Wilson Observatory.
+
+STAR CLUSTER IN HERCULES                                          37
+    Photo: Astrophysical Observatory, Victoria, British Columbia.
+
+THE GREAT NEBULA IN ORION                                         40
+    Photo: Yerkes Observatory.
+
+GIANT SPIRAL NEBULA, MARCH 23, 1914                               41
+    Photo: Lick Observatory.
+
+A SPIRAL NEBULA SEEN EDGE-ON                                      44
+    Photo: Mount Wilson Observatory.
+
+100-INCH TELESCOPE, MOUNT WILSON                                  45
+    Photo: H. J. Shepstone.
+
+THE YERKES 40-INCH REFRACTOR                                      48
+
+THE DOUBLE-SLIDE PLATE-HOLDER ON YERKES 40-INCH REFRACTING
+  TELESCOPE                                                       49
+    Photo: H. J. Shepstone.
+
+MODERN DIRECT-READING SPECTROSCOPE                                49
+    By A. Hilger, Ltd.
+
+CHARLES DARWIN                                                    56
+    Photo: Rischgitz Collection.
+
+LORD KELVIN                                                       56
+    Photo: Rischgitz Collection.
+
+A GIANT SPIRAL NEBULA                                             57
+    Photo: Lick Observatory.
+
+METEORITE WHICH FELL NEAR SCARBOROUGH AND IS NOW TO BE SEEN
+  IN THE NATURAL HISTORY MUSEUM                                   57
+    Photo: Natural History Museum.
+
+A LIMESTONE CANYON                                                60
+    Reproduced from the Smithsonian Report, 1915.
+
+GEOLOGICAL TREE OF ANIMALS                                        61
+
+DIAGRAM OF AMOEBA                                                 61
+
+A PIECE OF A REEF-BUILDING CORAL, BUILT UP BY A LARGE
+  COLONY OF SMALL SEA-ANEMONE-LIKE POLYPS, EACH OF WHICH
+  FORMS FROM THE SALTS OF THE SEA A SKELETON OR SHELL OF
+  LIME                                                            64
+    From the Smithsonian Report, 1917.
+
+A GROUP OF CHALK-FORMING ANIMALS, OR FORAMINIFERA, EACH
+  ABOUT THE SIZE OF A VERY SMALL PIN'S HEAD                       65
+    Photo: J. J. Ward, F.E.S.
+
+A COMMON FORAMINIFER (POLYSTOMELLA) SHOWING THE SHELL IN
+  THE CENTRE AND THE OUTFLOWING NETWORK OF LIVING MATTER,
+  ALONG WHICH GRANULES ARE CONTINUALLY TRAVELLING, AND BY
+  WHICH FOOD PARTICLES ARE ENTANGLED AND DRAWN IN                 65
+    Reproduced by permission of the Natural History Museum
+    (after Max Schultze).
+
+A PLANT-LIKE ANIMAL, OR ZOOPHYTE, CALLED OBELIA                   68
+    Photo: J. J. Ward, F.E.S.
+
+TRYPANOSOMA GAMBIENSE                                             69
+    Reproduced by permission of _The Quart. Journ. Mic. Sci._
+
+VOLVOX                                                            69
+
+PROTEROSPONGIA                                                    69
+
+GREEN HYDRA                                                       72
+    Photo: J. J. Ward, F.E.S.
+
+DIAGRAM ILLUSTRATING THE BEGINNING OF INDIVIDUAL LIFE             72
+
+EARTHWORM                                                         72
+    Photo: J. J. Ward, F.E.S.
+
+GLASS MODEL OF A SEA-ANEMONE                                      72
+    Reproduced from the Smithsonian Report, 1917.
+
+THIS DRAWING SHOWS THE EVOLUTION OF THE BRAIN FROM FISH TO
+  MAN                                                             73
+
+OKAPI AND GIRAFFE (_Coloured Illustration_)                       74
+
+DIAGRAM OF A SIMPLE REFLEX ARC IN A BACKBONELESS ANIMAL
+  LIKE AN EARTHWORM                                               76
+
+THE YUCCA MOTH                                                    76
+    Photo: British Museum (Natural History).
+
+INCLINED PLANE OF ANIMAL BEHAVIOUR                                76
+
+VENUS' FLY-TRAP                                                   77
+    Photo: J. J. Ward, F.E.S.
+
+A SPIDER SUNNING HER EGGS                                         77
+    Reproduced by permission from _The Wonders of Instinct_ by
+    J. H. Fabre.
+
+THE HOATZIN INHABITS BRITISH GUIANA                               82
+
+PERIPATUS                                                         83
+    Photograph, from the British Museum (Natural History), of a
+    drawing by Mr. E. Wilson.
+
+ROCK KANGAROO CARRYING ITS YOUNG IN A POUCH                       83
+    Photo: W. S. Berridge, F.Z.S.
+
+PROFESSOR THOMAS HENRY HUXLEY (1825-95)                           86
+    Photo: Rischgitz.
+
+BARON CUVIER, 1769-1832                                           86
+
+AN ILLUSTRATION SHOWING VARIOUS METHODS OF FLYING AND
+  SWOOPING                                                        87
+
+ANIMALS OF THE CAMBRIAN PERIOD                                    90
+    From Knipe's _Nebula to Man_.
+
+A TRILOBITE                                                       90
+    Photo: J. J. Ward, F.E.S.
+
+THE GAMBIAN MUD-FISH, PROTOPTERUS                                 91
+    Photo: British Museum (Natural History).
+
+THE ARCHÆOPTERYX                                                  91
+    After William Leche of Stockholm.
+
+WING OF A BIRD, SHOWING THE ARRANGEMENT OF THE FEATHERS           91
+
+PICTORIAL REPRESENTATION OF STRATA OF THE EARTH'S CRUST,
+  WITH SUGGESTIONS OF CHARACTERISTIC FOSSILS (_Coloured
+  Illustration_)                                                  92
+
+FOSSIL OF A PTERODACTYL OR EXTINCT FLYING DRAGON                  94
+    Photo: British Museum (Natural History).
+
+PARIASAURUS: AN EXTINCT VEGETARIAN TRIASSIC REPTILE               94
+    From Knipe's _Nebula to Man_.
+
+TRICERATOPS: A HUGE EXTINCT REPTILE                               95
+    From Knipe's _Nebula to Man_.
+
+THE DUCKMOLE OR DUCK-BILLED PLATYPUS OF AUSTRALIA                 95
+    Photo: _Daily Mail_.
+
+SKELETON OF AN EXTINCT FLIGHTLESS TOOTHED BIRD, HESPERORNIS      100
+    After Marsh.
+
+SIX STAGES IN THE EVOLUTION OF THE HORSE, SHOWING GRADUAL
+INCREASE IN SIZE                                                 101
+    After Lull and Matthew.
+
+DIAGRAM SHOWING SEVEN STAGES IN THE EVOLUTION OF THE
+  FORE-LIMBS AND HIND-LIMBS OF THE ANCESTORS OF THE MODERN
+  HORSE, BEGINNING WITH THE EARLIEST KNOWN PREDECESSORS OF
+  THE HORSE AND CULMINATING WITH THE HORSE OF TO-DAY             104
+  After Marsh and Lull.
+
+WHAT IS MEANT BY HOMOLOGY? ESSENTIAL SIMILARITY OF
+  ARCHITECTURE, THOUGH THE APPEARANCES MAY BE VERY
+  DIFFERENT                                                      105
+
+AN EIGHT-ARMED CUTTLEFISH OR OCTOPUS ATTACKING A SMALL CRAB      116
+
+A COMMON STARFISH, WHICH HAS LOST THREE ARMS AND IS
+  REGROWING THEM                                                 116
+    After Professor W. C. McIntosh.
+
+THE PAPER NAUTILUS (ARGONAUTA), AN ANIMAL OF THE OPEN SEA        117
+  Photo: J. J. Ward, F.E.S.
+
+A PHOTOGRAPH SHOWING A STARFISH (_Asterias Forreri_) WHICH
+  HAS CAPTURED A LARGE FISH                                      117
+
+TEN-ARMED CUTTLEFISH OR SQUID IN THE ACT OF CAPTURING A FISH     118
+
+GREENLAND WHALE                                                  118
+
+MINUTE TRANSPARENT EARLY STAGE OF A SEA-CUCUMBER                 119
+
+AN INTRICATE COLONY OF OPEN-SEA ANIMALS (_Physophora
+  Hydrostatica_) RELATED TO THE PORTUGUESE MAN-OF-WAR            119
+    Photo: British Museum (Natural History).
+
+A SCENE IN THE GREAT DEPTHS                                      119
+
+SEA-HORSE IN SARGASSO WEED                                       120
+
+LARGE MARINE LAMPREYS (_Petromyzon Marinus_)                     120
+
+THE DEEP-SEA FISH _Chiasmodon Niger_                             120
+
+DEEP-SEA FISHES                                                  120
+
+FLINTY SKELETON OF VENUS' FLOWER BASKET (_Euplectella_), A
+  JAPANESE DEEP-SEA SPONGE                                       121
+
+EGG DEPOSITORY OF _Semotilus Atromaculatus_                      121
+
+THE BITTERLING (_Rhodeus Amarus_)                                124
+
+WOOLLY OPOSSUM CARRYING HER FAMILY                               124
+    Photo: W. S. Berridge.
+
+SURINAM TOAD (_Pipa Americana_) WITH YOUNG ONES HATCHING
+  OUT OF LITTLE POCKETS ON HER BACK                              125
+
+STORM PETREL OR MOTHER CAREY'S CHICKEN (_Procellaria
+  Pelagica_)                                                     125
+
+ALBATROSS: A CHARACTERISTIC PELAGIC BIRD OF THE SOUTHERN
+  SEA                                                            128
+
+THE PRAYING MANTIS (_Mantis Religiosa_)                          138
+
+PROTECTIVE COLORATION: A WINTER SCENE IN NORTH SCANDINAVIA       138
+
+THE VARIABLE MONITOR (_Varanus_)                                 139
+    Photo: A. A. White.
+
+BANDED KRAIT: A VERY POISONOUS SNAKE WITH ALTERNATING
+  YELLOW AND DARK BANDS                                          140
+  Photo: W. S. Berridge, F.Z.S.
+
+THE WARTY CHAMELEON                                              140
+    Photos: W. S. Berridge, F.Z.S.
+
+SEASONAL COLOUR-CHANGE: SUMMER SCENE IN NORTH SCANDINAVIA        141
+
+PROTECTIVE RESEMBLANCE                                           142
+    Photo: J. J. Ward, F.E.S.
+
+WHEN ONLY A FEW DAYS OLD, YOUNG BITTERN BEGIN TO STRIKE THE
+  SAME ATTITUDE AS THEIR PARENTS, THRUSTING THEIR BILLS
+  UPWARDS AND DRAWING THEIR BODIES UP SO THAT THEY RESEMBLE
+  A BUNCH OF REEDS                                               143
+
+PROTECTIVE COLORATION OR CAMOUFLAGING, GIVING ANIMALS A
+  GARMENT OF INVISIBILITY (_Coloured Illustration_)              144
+
+ANOTHER EXAMPLE OF PROTECTIVE COLORATION (_Coloured
+  Illustration_)                                                 144
+
+DEAD-LEAF BUTTERFLY (_Kallima Inachis_) FROM INDIA               146
+
+PROTECTIVE RESEMBLANCE BETWEEN A SMALL SPIDER (_to the
+  left_) AND AN ANT (_to the right_)                             146
+
+THE WASP BEETLE, WHICH, WHEN MOVING AMONGST THE BRANCHES,
+  GIVES A WASP-LIKE IMPRESSION                                   147
+    Photo: J. J. Ward, F.E.S.
+
+HERMIT-CRAB WITH PARTNER SEA-ANEMONES                            147
+
+CUCKOO-SPIT                                                      147
+    Photo: G. P. Duffus.
+
+CHIMPANZEE, SITTING                                              156
+    Photo: New York Zoological Park.
+
+CHIMPANZEE, ILLUSTRATING WALKING POWERS                          156
+    Photo: New York Zoological Park.
+
+SURFACE VIEW OF THE BRAINS OF MAN AND CHIMPANZEE                 157
+
+SIDE-VIEW OF CHIMPANZEE'S HEAD                                   157
+    Photo: New York Zoological Park.
+
+PROFILE VIEW OF HEAD OF PITHECANTHROPUS, THE JAVA APE-MAN,
+  RECONSTRUCTED FROM THE SKULL-CAP                               157
+    After a model by J. H. McGregor.
+
+THE FLIPPER OF A WHALE AND THE HAND OF A MAN                     157
+
+THE GORILLA, INHABITING THE FOREST TRACT OF THE GABOON IN
+  AFRICA (_Coloured Illustration_)                               158
+
+"DARWIN'S POINT" ON HUMAN EAR                                    160
+
+PROFESSOR SIR ARTHUR KEITH, M.D., LL.D., F.R.S.                  161
+    Photo: J. Russell & Sons.
+
+SKELETONS OF THE GIBBON, ORANG, CHIMPANZEE, GORILLA, MAN         161
+    After T. H. Huxley (by permission of Messrs. Macmillan).
+
+SIDE-VIEW OF SKULL OF MAN AND GORILLA                            164
+
+THE SKULL AND BRAIN-CASE OF PITHECANTHROPUS, THE JAVA
+  APE-MAN, AS RESTORED BY J. H. MCGREGOR FROM THE SCANTY
+  REMAINS                                                        164
+
+SUGGESTED GENEALOGICAL TREE OF MAN AND ANTHROPOID APES           165
+
+THE GIBBON IS LOWER THAN THE OTHER APES AS REGARDS ITS
+  SKULL AND DENTITION, BUT IT IS HIGHLY SPECIALIZED IN THE
+  ADAPTATION OF ITS LIMBS TO ARBOREAL LIFE                       166
+    Photo: New York Zoological Park.
+
+THE ORANG HAS A HIGH ROUNDED SKULL AND A LONG FACE               166
+    Photo: New York Zoological Park.
+
+COMPARISONS OF THE SKELETONS OF HORSE AND MAN                    167
+    Photo: British Museum (Natural History).
+
+A RECONSTRUCTION OF THE JAVA MAN (_Coloured Illustration_)       168
+
+PROFILE VIEW OF THE HEAD OF PITHECANTHROPUS, THE JAVA
+  APE-MAN--AN EARLY OFFSHOOT FROM THE MAIN LINE OF MAN'S
+  ASCENT                                                         170
+    After a model by J. H. McGregor.
+
+PILTDOWN SKULL                                                   170
+    From the reconstruction by J. H. McGregor.
+
+SAND-PIT AT MAUER, NEAR HEIDELBERG: DISCOVERY SITE OF THE
+  JAW OF HEIDELBERG MAN                                          171
+    Reproduced by permission from Osborn's
+      _Men of the Old Stone Age_.
+
+PAINTINGS ON THE ROOF OF THE ALTAMIRA CAVE IN NORTHERN
+  SPAIN, SHOWING A BISON AND A GALLOPING BOAR (_Coloured
+  Illustration_)                                                 172
+
+PILTDOWN MAN, PRECEDING NEANDERTHAL MAN, PERHAPS 100,000 TO
+  150,000 YEARS AGO                                              174
+    After the restoration modelled by J. H. McGregor.
+
+THE NEANDERTHAL MAN OF LA CHAPELLE-AUX-SAINTS                    175
+    After the restoration modelled by J. H. McGregor.
+
+RESTORATION BY A. FORESTIER OF THE RHODESIAN MAN WHOSE
+  SKULL WAS DISCOVERED IN 1921                               176-177
+
+SIDE VIEW OF A PREHISTORIC HUMAN SKULL DISCOVERED IN 1921
+  IN BROKEN HILL CAVE, NORTHERN RHODESIA                         178
+    Photo: British Museum (Natural History).
+
+A CROMAGNON MAN OR CROMAGNARD, REPRESENTATIVE OF A STRONG
+  ARTISTIC RACE LIVING IN THE SOUTH OF FRANCE IN THE UPPER
+  PLEISTOCENE, PERHAPS 25,000 YEARS AGO                          178
+  After the restoration modelled by J. H. McGregor.
+
+PHOTOGRAPH SHOWING A NARROW PASSAGE IN THE CAVERN OF
+  FONT-DE-GAUME ON THE BEUNE                                     179
+  Reproduced by permission from Osborn's
+    _Men of the Old Stone Age_.
+
+A MAMMOTH DRAWN ON THE WALL OF THE FONT-DE-GAUME CAVERN          179
+
+A GRAZING BISON, DELICATELY AND CAREFULLY DRAWN, ENGRAVED
+  ON A WALL OF THE ALTAMIRA CAVE, NORTHERN SPAIN                 179
+
+PHOTOGRAPH OF A MEDIAN SECTION THROUGH THE SHELL OF THE
+  PEARLY NAUTILUS                                                186
+
+PHOTOGRAPH OF THE ENTIRE SHELL OF THE PEARLY NAUTILUS            186
+
+NAUTILUS                                                         186
+
+SHOEBILL                                                         187
+    Photo: W. S. Berridge.
+
+THE WALKING-FISH OR MUD-SKIPPER (_Periophthalmus_), COMMON
+  AT THE MOUTHS OF RIVERS IN TROPICAL AFRICA, ASIA, AND
+  NORTH-WEST AUSTRALIA                                           190
+
+THE AUSTRALIAN MORE-PORK OR PODARGUS                             190
+    Photo: _The Times_.
+
+PELICAN'S BILL, ADAPTED FOR CATCHING AND STORING FISHES          191
+
+SPOONBILL'S BILL, ADAPTED FOR SIFTING THE MUD AND CATCHING
+  THE SMALL ANIMALS, E.G. FISHES, CRUSTACEANS, INSECT
+  LARVÆ, WHICH LIVE THERE                                        191
+
+AVOCET'S BILL, ADAPTED FOR A CURIOUS SIDEWAYS SCOOPING IN
+  THE SHORE-POOLS AND CATCHING SMALL ANIMALS                     191
+
+HORNBILL'S BILL, ADAPTED FOR EXCAVATING A NEST IN A TREE,
+  AND ALSO FOR SEIZING AND BREAKING DIVERSE FORMS OF FOOD,
+  FROM MAMMALS TO TORTOISES, FROM ROOTS TO FRUITS                191
+
+FALCON'S BILL, ADAPTED FOR SEIZING, KILLING, AND TEARING
+  SMALL MAMMALS AND BIRDS                                        191
+
+PUFFIN'S BILL, ADAPTED FOR CATCHING SMALL FISHES NEAR THE
+  SURFACE OF THE SEA, AND FOR HOLDING THEM WHEN CAUGHT AND
+  CARRYING THEM TO THE NEST                                      191
+
+LIFE-HISTORY OF A FROG                                           192
+
+HIND-LEG OF WHIRLIGIG BEETLE WHICH HAS BECOME BEAUTIFULLY
+  MODIFIED FOR AQUATIC LOCOMOTION                                192
+    Photo: J. J. Ward, F.E.S.
+
+THE BIG ROBBER-CRAB (_Birgus Latro_), THAT CLIMBS THE
+  COCONUT PALM AND BREAKS OFF THE NUTS                           193
+
+EARLY LIFE-HISTORY OF THE SALMON                                 196
+
+THE SALMON LEAPING AT THE FALL IS A MOST FASCINATING SPECTACLE   197
+
+DIAGRAM OF THE LIFE-HISTORY OF THE COMMON EEL (_Anguilla
+  Vulgaris_)                                                     200
+
+CASSOWARY                                                        201
+    Photo: Gambier Bolton.
+
+THE KIWI, ANOTHER FLIGHTLESS BIRD, OF REMARKABLE
+  APPEARANCE, HABITS, AND STRUCTURE                              201
+    Photo: Gambier Bolton.
+
+THE AUSTRALIAN FRILLED LIZARD, WHICH IS AT PRESENT TRYING
+  TO BECOME A BIPED                                              202
+
+A CARPET OF GOSSAMER                                             202
+
+THE WATER SPIDER                                                 203
+
+JACKDAW BALANCING ON A GATEPOST                                  208
+    Photo: O. J. Wilkinson.
+
+TWO OPOSSUMS FEIGNING DEATH                                      208
+    From Ingersoll's _The Wit of the Wild_.
+
+MALE OF THREE-SPINED STICKLEBACK, MAKING A NEST OF
+  WATER-WEED, GLUED TOGETHER BY VISCID THREADS SECRETED
+  FROM THE KIDNEYS AT THE BREEDING SEASON                        209
+
+A FEMALE STICKLEBACK ENTERS THE NEST WHICH THE MALE HAS
+  MADE, LAYS THE EGGS INSIDE, AND THEN DEPARTS                   209
+
+HOMING PIGEON                                                    212
+    Photo: Imperial War Museum.
+
+CARRIER PIGEON                                                   212
+    Photo: Imperial War Museum.
+
+YELLOW-CROWNED PENGUIN                                           213
+    Photo: James's Press Agency.
+
+PENGUINS ARE "A PECULIAR PEOPLE"                                 213
+    Photo: Cagcombe & Co.
+
+HARPY-EAGLE                                                      216
+    Photo: W. S. Berridge.
+
+THE DINGO OR WILD DOG OF AUSTRALIA, PERHAPS AN INDIGENOUS
+  WILD SPECIES, PERHAPS A DOMESTICATED DOG THAT HAS GONE
+  WILD OR FERAL                                                  216
+    Photo: W. S. Berridge, F.Z.S.
+
+WOODPECKER HAMMERING AT A COTTON-REEL, ATTACHED TO A TREE        217
+
+THE BEAVER                                                       220
+
+THE THRUSH AT ITS ANVIL                                          221
+    Photo: F. R. Hinkins & Son.
+
+ALSATIAN WOLF-DOG                                                226
+    Photo: Lafayette.
+
+THE POLAR BEAR OF THE FAR NORTH                                  227
+    Photo: W. S. Berridge.
+
+AN ALLIGATOR "YAWNING" IN EXPECTATION OF FOOD                    227
+    From the Smithsonian Report, 1914.
+
+BABY ORANG                                                       232
+    Photo: W. P. Dando.
+
+ORANG-UTAN                                                       232
+    Photo: Gambier Bolton.
+
+CHIMPANZEE                                                       233
+    Photo: James's Press Agency.
+
+BABY ORANG-UTAN                                                  233
+    Photo: James's Press Agency.
+
+ORANG-UTAN                                                       233
+    Photo: James's Press Agency.
+
+BABY CHIMPANZEES                                                 233
+    Photo: James's Press Agency.
+
+CHIMPANZEE                                                       238
+    Photo: W. P. Dando.
+
+YOUNG CHEETAHS, OR HUNTING LEOPARDS                              238
+    Photo: W. S. Berridge.
+
+COMMON OTTER                                                     239
+    Photo: C. Reid.
+
+SIR ERNEST RUTHERFORD                                            246
+    Photo: Elliott & Fry.
+
+J. CLERK-MAXWELL                                                 246
+    Photo: Rischgitz Collection.
+
+SIR WILLIAM CROOKES                                              247
+    Photo: Ernest H. Mills.
+
+PROFESSOR SIR W. H. BRAGG                                        247
+    Photo: Photo Press.
+
+COMPARATIVE SIZES OF MOLECULES                                   250
+
+INCONCEIVABLE NUMBERS AND INCONCEIVABLY SMALL PARTICLES          250
+
+WHAT IS A MILLION?                                               250
+
+THE BROWNIAN MOVEMENT                                            251
+
+A SOAP BUBBLE (_Coloured Illustration_)                          252
+    Reproduced from _The Forces of Nature_ (Messrs. Macmillan).
+
+DETECTING A SMALL QUANTITY OF MATTER                             254
+    From _Scientific Ideas of To-day_.
+
+THIS X-RAY PHOTOGRAPH IS THAT OF A HAND OF A SOLDIER
+  WOUNDED IN THE GREAT WAR                                       254
+  Reproduced by permission of X-Rays Ltd.
+
+AN X-RAY PHOTOGRAPH OF A GOLF BALL, REVEALING AN IMPERFECT
+  CORE                                                           254
+    Photo: National Physical Laboratory.
+
+A WONDERFUL X-RAY PHOTOGRAPH                                     255
+    Reproduced by permission of X-Rays Ltd.
+
+ELECTRIC DISCHARGE IN A VACUUM TUBE                              258
+
+THE RELATIVE SIZES OF ATOMS AND ELECTRONS                        258
+
+ELECTRONS STREAMING FROM THE SUN TO THE EARTH                    259
+
+PROFESSOR SIR J. J. THOMSON                                      262
+
+ELECTRONS PRODUCED BY PASSAGE OF X-RAYS THROUGH AIR              262
+    From the Smithsonian Report, 1915.
+
+MAGNETIC DEFLECTION OF RADIUM RAYS                               263
+
+PROFESSOR R. A. MILLIKAN'S APPARATUS FOR COUNTING ELECTRONS      263
+    Reproduced by permission of _Scientific American_.
+
+MAKING THE INVISIBLE VISIBLE                                     266
+
+THE THEORY OF ELECTRONS                                          267
+
+ARRANGEMENTS OF ATOMS IN A DIAMOND                               267
+
+DISINTEGRATION OF ATOMS                                          270
+
+SILK TASSEL ELECTRIFIED                                          270
+  Reproduced by permission from _The Interpretation of Radium_
+    (John Murray).
+
+SILK TASSEL DISCHARGED BY THE RAYS FROM RADIUM                   270
+
+A HUGE ELECTRIC SPARK                                            271
+
+ELECTRICAL ATTRACTION BETWEEN COMMON OBJECTS                     271
+    From _Scientific Ideas of To-day_.
+
+AN ELECTRIC SPARK                                                274
+    Photo: Leadbeater.
+
+AN ETHER DISTURBANCE AROUND AN ELECTRON CURRENT                  275
+    From _Scientific Ideas of To-day_.
+
+LIGHTNING                                                        278
+    Photo: H. J. Shepstone.
+
+LIGHT WAVES                                                      279
+
+THE MAGNETIC CIRCUIT OF AN ELECTRIC CURRENT                      279
+
+THE MAGNET                                                       279
+
+ROTATING DISC OF SIR ISAAC NEWTON FOR MIXING COLOURS
+  (_Coloured Illustration_)                                      280
+
+WAVE SHAPES                                                      282
+
+THE POWER OF A MAGNET                                            282
+
+THE SPEED OF LIGHT                                               283
+    Photo: The Locomotive Publishing Co., Ltd.
+
+ROTATING DISC OF SIR ISAAC NEWTON FOR MIXING COLOURS             283
+
+NIAGARA FALLS                                                    286
+
+TRANSFORMATION OF ENERGY                                         287
+    Photo: Stephen Cribb.
+
+"BOILING" A KETTLE ON ICE                                        287
+    Photo: Underwood & Underwood.
+
+THE CAUSE OF TIDES                                               290
+
+THE AEGIR ON THE TRENT                                           290
+    Photo: G. Brocklehurst.
+
+A BIG SPRING TIDE, THE AEGIR ON THE TRENT                        291
+    Photo: G. Brocklehurst.
+
+
+
+
+The Outline of Science
+
+
+
+
+INTRODUCTION
+
+
+There is abundant evidence of a widened and deepened interest in modern
+science. How could it be otherwise when we think of the magnitude and
+the eventfulness of recent advances?
+
+But the interest of the general public would be even greater than it is
+if the makers of new knowledge were more willing to expound their
+discoveries in ways that could be "understanded of the people." No one
+objects very much to technicalities in a game or on board a yacht, and
+they are clearly necessary for terse and precise scientific description.
+It is certain, however, that they can be reduced to a minimum without
+sacrificing accuracy, when the object in view is to explain "the gist of
+the matter." So this OUTLINE OF SCIENCE is meant for the general reader,
+who lacks both time and opportunity for special study, and yet would
+take an intelligent interest in the progress of science which is making
+the world always new.
+
+The story of the triumphs of modern science is one of which Man may well
+be proud. Science reads the secret of the distant star and anatomises
+the atom; foretells the date of the comet's return and predicts the
+kinds of chickens that will hatch from a dozen eggs; discovers the laws
+of the wind that bloweth where it listeth and reduces to order the
+disorder of disease. Science is always setting forth on Columbus
+voyages, discovering new worlds and conquering them by understanding.
+For Knowledge means Foresight and Foresight means Power.
+
+The idea of Evolution has influenced all the sciences, forcing us to
+think of _everything_ as with a history behind it, for we have travelled
+far since Darwin's day. The solar system, the earth, the mountain
+ranges, and the great deeps, the rocks and crystals, the plants and
+animals, man himself and his social institutions--all must be seen as
+the outcome of a long process of Becoming. There are some eighty-odd
+chemical elements on the earth to-day, and it is now much more than a
+suggestion that these are the outcome of an inorganic evolution, element
+giving rise to element, going back and back to some primeval stuff, from
+which they were all originally derived, infinitely long ago. No idea has
+been so powerful a tool in the fashioning of New Knowledge as this
+simple but profound idea of Evolution, that the present is the child of
+the past and the parent of the future. And with the picture of a
+continuity of evolution from nebula to social systems comes a promise of
+an increasing control--a promise that Man will become not only a more
+accurate student, but a more complete master of his world.
+
+It is characteristic of modern science that the whole world is seen to
+be more vital than before. Everywhere there has been a passage from the
+static to the dynamic. Thus the new revelations of the constitution of
+matter, which we owe to the discoveries of men like Professor Sir J. J.
+Thomson, Professor Sir Ernest Rutherford, and Professor Frederick Soddy,
+have shown the very dust to have a complexity and an activity heretofore
+unimagined. Such phrases as "dead" matter and "inert" matter have gone
+by the board.
+
+The new theory of the atom amounts almost to a new conception of the
+universe. It bids fair to reveal to us many of nature's hidden secrets.
+The atom is no longer the indivisible particle of matter it was once
+understood to be. We know now that there is an atom within the
+atom--that what we thought was elementary can be dissociated and broken
+up. The present-day theories of the atom and the constitution of matter
+are the outcome of the comparatively recent discovery of such things as
+radium, the X-rays, and the wonderful revelations of such instruments as
+the spectroscope and other highly perfected scientific instruments.
+
+The advent of the electron theory has thrown a flood of light on what
+before was hidden or only dimly guessed at. It has given us a new
+conception of the framework of the universe. We are beginning to know
+and realise of what matter is made and what electric phenomena mean. We
+can glimpse the vast stores of energy locked up in matter. The new
+knowledge has much to tell us about the origin and phenomena, not only
+of our own planet, but other planets, of the stars, and the sun. New
+light is thrown on the source of the sun's heat; we can make more than
+guesses as to its probable age. The great question to-day is: is there
+_one_ primordial substance from which all the varying forms of matter
+have been evolved?
+
+But the discovery of electrons is only one of the revolutionary changes
+which give modern science an entrancing interest.
+
+As in chemistry and physics, so in the science of living creatures there
+have been recent advances that have changed the whole prospect. A good
+instance is afforded by the discovery of the "hormones," or chemical
+messengers, which are produced by ductless glands, such as the thyroid,
+the supra-renal, and the pituitary, and are distributed throughout the
+body by the blood. The work of physiologists like Professor Starling and
+Professor Bayliss has shown that these chemical messengers regulate what
+may be called the "pace" of the body, and bring about that regulated
+harmony and smoothness of working which we know as health. It is not too
+much to say that the discovery of hormones has changed the whole of
+physiology. Our knowledge of the human body far surpasses that of the
+past generation.
+
+The persistent patience of microscopists and technical improvements like
+the "ultramicroscope" have greatly increased our knowledge of the
+invisible world of life. To the bacteria of a past generation have been
+added a multitude of microscopic _animal_ microbes, such as that which
+causes Sleeping Sickness. The life-histories and the weird ways of many
+important parasites have been unravelled; and here again knowledge means
+mastery. To a degree which has almost surpassed expectations there has
+been a revelation of the intricacy of the stones and mortar of the house
+of life, and the microscopic study of germ-cells has wonderfully
+supplemented the epoch-making experimental study of heredity which began
+with Mendel. It goes without saying that no one can call himself
+educated who does not understand the central and simple ideas of
+Mendelism and other new departures in biology.
+
+The procession of life through the ages and the factors in the sublime
+movement; the peopling of the earth by plants and animals and the
+linking of life to life in subtle inter-relations, such as those between
+flowers and their insect-visitors; the life-histories of individual
+types and the extraordinary results of the new inquiry called
+"experimental embryology"--these also are among the subjects with which
+this OUTLINE will deal.
+
+The behaviour of animals is another fascinating study, leading to a
+provisional picture of the dawn of mind. Indeed, no branch of science
+surpasses in interest that which deals with the ways and habits--the
+truly wonderful devices, adaptations, and instincts--of insects, birds,
+and mammals. We no longer deny a degree of intelligence to some members
+of the animal world--even the line between intelligence and reason is
+sometimes difficult to find.
+
+Fresh contacts between physiology and the study of man's mental life;
+precise studies of the ways of children and wild peoples; and new
+methods like those of the psycho-analyst must also receive the attention
+they deserve, for they are giving us a "New Psychology" and the claims
+of psychical research must also be recognised by the open-minded.
+
+The general aim of the OUTLINE is to give the reader a clear and concise
+view of the essentials of present-day science, so that he may follow
+with intelligence the modern advance and share appreciatively in man's
+continued conquest of his kingdom.
+
+J. ARTHUR THOMSON.
+
+
+
+
+I
+
+THE ROMANCE OF THE HEAVENS
+
+
+
+
+THE SCALE OF THE UNIVERSE--THE SOLAR SYSTEM
+
+
+§ 1
+
+The story of the triumphs of modern science naturally opens with
+Astronomy. The picture of the Universe which the astronomer offers to us
+is imperfect; the lines he traces are often faint and uncertain. There
+are many problems which have been solved, there are just as many about
+which there is doubt, and notwithstanding our great increase in
+knowledge, there remain just as many which are entirely unsolved.
+
+    The problem of the structure and duration of the universe [said the
+    great astronomer Simon Newcomb] is the most far-reaching with which
+    the mind has to deal. Its solution may be regarded as the ultimate
+    object of stellar astronomy, the possibility of reaching which has
+    occupied the minds of thinkers since the beginning of civilisation.
+    Before our time the problem could be considered only from the
+    imaginative or the speculative point of view. Although we can to-day
+    attack it to a limited extent by scientific methods, it must be
+    admitted that we have scarcely taken more than the first step toward
+    the actual solution.... What is the duration of the universe in
+    time? Is it fitted to last for ever in its present form, or does it
+    contain within itself the seeds of dissolution? Must it, in the
+    course of time, in we know not how many millions of ages, be
+    transformed into something very different from what it now is? This
+    question is intimately associated with the question whether the
+    stars form a system. If they do, we may suppose that system to be
+    permanent in its general features; if not, we must look further for
+    our conclusions.
+
+
+The Heavenly Bodies
+
+The heavenly bodies fall into two very distinct classes so far as their
+relation to our Earth is concerned; the one class, a very small one,
+comprises a sort of colony of which the Earth is a member. These bodies
+are called _planets_, or wanderers. There are eight of them, including
+the Earth, and they all circle round the sun. Their names, in the order
+of their distance from the sun, are Mercury, Venus, Earth, Mars,
+Jupiter, Saturn, Uranus, Neptune, and of these Mercury, the nearest to
+the sun, is rarely seen by the naked eye. Uranus is practically
+invisible, and Neptune quite so. These eight planets, together with the
+sun, constitute, as we have said, a sort of little colony; this colony
+is called the Solar System.
+
+The second class of heavenly bodies are those which lie _outside_ the
+solar system. Every one of those glittering points we see on a starlit
+night is at an immensely greater distance from us than is any member of
+the Solar System. Yet the members of this little colony of ours, judged
+by terrestrial standards, are at enormous distances from one another. If
+a shell were shot in a straight line from one side of Neptune's orbit to
+the other it would take five hundred years to complete its journey. Yet
+this distance, the greatest in the Solar System as now known (excepting
+the far swing of some of the comets), is insignificant compared to the
+distances of the stars. One of the nearest stars to the earth that we
+know of is Alpha Centauri, estimated to be some twenty-five million
+millions of miles away. Sirius, the brightest star in the firmament, is
+double this distance from the earth.
+
+We must imagine the colony of planets to which we belong as a compact
+little family swimming in an immense void. At distances which would take
+our shell, not hundreds, but millions of years to traverse, we reach
+the stars--or rather, a star, for the distances between stars are as
+great as the distance between the nearest of them and our Sun. The
+Earth, the planet on which we live, is a mighty globe bounded by a crust
+of rock many miles in thickness; the great volumes of water which we
+call our oceans lie in the deeper hollows of the crust. Above the
+surface an ocean of invisible gas, the atmosphere, rises to a height of
+about three hundred miles, getting thinner and thinner as it ascends.
+
+[Illustration: LAPLACE
+
+One of the greatest mathematical astronomers of all time and the
+originator of the nebular theory.]
+
+[Illustration: _Photo: Royal Astronomical Society._
+
+PROFESSOR J. C. ADAMS
+
+who, anticipating the great French mathematician, Le Verrier, discovered
+the planet Neptune by calculations based on the irregularities of the
+orbit of Uranus. One of the most dramatic discoveries in the history of
+Science.]
+
+[Illustration: _Photo: Elliott & Fry, Ltd._
+
+PROFESSOR EDDINGTON
+
+Professor of Astronomy at Cambridge. The most famous of the English
+disciples of Einstein.]
+
+[Illustration: FIG. 1.--DIAGRAMS OF THE SOLAR SYSTEM
+
+THE COMPARATIVE DISTANCES OF THE PLANETS
+
+(Drawn approximately to scale)
+
+The isolation of the Solar System is very great. On the above scale the
+_nearest_ star (at a distance of 25 trillions of miles) would be over
+_one half mile_ away. The hours, days, and years are the measures of
+time as we use them; that is: Jupiter's "Day" (one rotation of the
+planet) is made in ten of _our hours_; Mercury's "Year" (one revolution
+of the planet around the Sun) is eighty-eight of _our days_. Mercury's
+"Day" and "Year" are the same. This planet turns always the same side to
+the Sun.]
+
+[Illustration: THE COMPARATIVE SIZES OF THE SUN AND THE PLANETS (Drawn
+approximately to scale)
+
+On this scale the Sun would be 17-1/2 inches in diameter; it is far
+greater than all the planets put together. Jupiter, in turn, is greater
+than all the other planets put together.]
+
+Except when the winds rise to a high speed, we seem to live in a very
+tranquil world. At night, when the glare of the sun passes out of our
+atmosphere, the stars and planets seem to move across the heavens with a
+stately and solemn slowness. It was one of the first discoveries of
+modern astronomy that this movement is only apparent. The apparent
+creeping of the stars across the heavens at night is accounted for by
+the fact that the earth turns upon its axis once in every twenty-four
+hours. When we remember the size of the earth we see that this implies a
+prodigious speed.
+
+In addition to this the earth revolves round the sun at a speed of more
+than a thousand miles a minute. Its path round the sun, year in year
+out, measures about 580,000,000 miles. The earth is held closely to this
+path by the gravitational pull of the sun, which has a mass 333,432
+times that of the earth. If at any moment the sun ceased to exert this
+pull the earth would instantly fly off into space straight in the
+direction in which it was moving at the time, that is to say, at a
+tangent. This tendency to fly off at a tangent is continuous. It is the
+balance between it and the sun's pull which keeps the earth to her
+almost circular orbit. In the same way the seven other planets are held
+to their orbits.
+
+Circling round the earth, in the same way as the earth circles round the
+sun, is our moon. Sometimes the moon passes directly between us and the
+sun, and cuts off the light from us. We then have a total or partial
+eclipse of the sun. At other times the earth passes directly between the
+sun and the moon, and causes an eclipse of the moon. The great ball of
+the earth naturally trails a mighty shadow across space, and the moon is
+"eclipsed" when it passes into this.
+
+The other seven planets, five of which have moons of their own, circle
+round the sun as the earth does. The sun's mass is immensely larger than
+that of all the planets put together, and all of them would be drawn
+into it and perish if they did not travel rapidly round it in gigantic
+orbits. So the eight planets, spinning round on their axes, follow their
+fixed paths round the sun. The planets are secondary bodies, but they
+are most important, because they are the only globes in which there can
+be life, as we know life.
+
+If we could be transported in some magical way to an immense distance in
+space above the sun, we should see our Solar System as it is drawn in
+the accompanying diagram (Fig. 1), except that the planets would be mere
+specks, faintly visible in the light which they receive from the sun.
+(This diagram is drawn approximately to scale.) If we moved still
+farther away, trillions of miles away, the planets would fade entirely
+out of view, and the sun would shrink into a point of fire, a star. And
+here you begin to realize the nature of the universe. _The sun is a
+star. The stars are suns._ Our sun looks big simply because of its
+comparative nearness to us. The universe is a stupendous collection of
+millions of stars or suns, many of which may have planetary families
+like ours.
+
+
+§ 2
+
+The Scale of the Universe
+
+How many stars are there? A glance at a photograph of star-clouds will
+tell at once that it is quite impossible to count them. The fine
+photograph reproduced in Figure 2 represents a very small patch of that
+pale-white belt, the Milky Way, which spans the sky at night. It is true
+that this is a particularly rich area of the Milky Way, but the entire
+belt of light has been resolved in this way into masses or clouds of
+stars. Astronomers have counted the stars in typical districts here and
+there, and from these partial counts we get some idea of the total
+number of stars. There are estimated to be between two and three
+thousand million stars.
+
+Yet these stars are separated by inconceivable distances from each
+other, and it is one of the greatest triumphs of modern astronomy to
+have mastered, so far, the scale of the universe. For several centuries
+astronomers have known the relative distances from each other of the sun
+and the planets. If they could discover the actual distance of any one
+planet from any other, they could at once tell all the distances within
+the Solar System.
+
+The sun is, on the latest measurements, at an average distance of
+92,830,000 miles from the earth, for as the orbit of the earth is not a
+true circle, this distance varies. This means that in six months from
+now the earth will be right at the opposite side of its path round the
+sun, or 185,000,000 miles away from where it is now. Viewed or
+photographed from two positions so wide apart, the nearest stars show a
+tiny "shift" against the background of the most distant stars, and that
+is enough for the mathematician. He can calculate the distance of any
+star near enough to show this "shift." We have found that the nearest
+star to the earth, a recently discovered star, is twenty-five trillion
+miles away. Only thirty stars are known to be within a hundred trillion
+miles of us.
+
+This way of measuring does not, however, take us very far away in the
+heavens. There are only a few hundred stars within five hundred trillion
+miles of the earth, and at that distance the "shift" of a star against
+the background (parallax, the astronomer calls it) is so minute that
+figures are very uncertain. At this point the astronomer takes up a new
+method. He learns the different types of stars, and then he is able to
+deduce more or less accurately the distance of a star of a known type
+from its faintness. He, of course, has instruments for gauging their
+light. As a result of twenty years work in this field, it is now known
+that the more distant stars of the Milky Way are at least a hundred
+thousand trillion (100,000,000,000,000,000) miles away from the sun.
+
+Our sun is in a more or less central region of the universe, or a few
+hundred trillion miles from the actual centre. The remainder of the
+stars, which are all outside our Solar System, are spread out,
+apparently, in an enormous disc-like collection, so vast that even a ray
+of light, which travels at the rate of 186,000 miles a second, would
+take 50,000 years to travel from one end of it to the other. This, then
+is what we call our universe.
+
+
+Are there other Universes?
+
+Why do we say "our universe"? Why not _the_ universe? It is now believed
+by many of our most distinguished astronomers that our colossal family
+of stars is only one of many universes. By a universe an astronomer
+means any collection of stars which are close enough to control each
+other's movements by gravitation; and it is clear that there might be
+many universes, in this sense, separated from each other by profound
+abysses of space. Probably there are.
+
+For a long time we have been familiar with certain strange objects in
+the heavens which are called "spiral nebulæ" (Fig 4). We shall see at a
+later stage what a nebula is, and we shall see that some astronomers
+regard these spiral nebulæ as worlds "in the making." But some of the
+most eminent astronomers believe that they are separate
+universes--"island-universes" they call them--or great collections of
+millions of stars like our universe. There are certain peculiarities in
+the structure of the Milky Way which lead these astronomers to think
+that our universe may be a spiral nebula, and that the other spiral
+nebulæ are "other universes."
+
+[Illustration: _Photo: Harvard College Observatory._
+
+FIG. 2.--THE MILKY WAY
+
+Note the cloud-like effect.]
+
+[Illustration: FIG. 3--THE MOON ENTERING THE SHADOW CAST BY THE EARTH
+
+The diagram shows the Moon partially eclipsed.]
+
+[Illustration: _From a photograph taken at the Yerkes Observatory_
+
+FIG. 4.--THE GREAT NEBULA IN ANDROMEDA, MESSIER 31]
+
+Vast as is the Solar System, then, it is excessively minute in
+comparison with the Stellar System, the universe of the Stars, which is
+on a scale far transcending anything the human mind can apprehend.
+
+
+THE SOLAR SYSTEM
+
+THE SUN
+
+
+§ 1
+
+But now let us turn to the Solar System, and consider the members of our
+own little colony.
+
+Within the Solar System there are a large number of problems that
+interest us. What is the size, mass, and distance of each of the
+planets? What satellites, like our Moon, do they possess? What are their
+temperatures? And those other, sporadic members of our system, comets
+and meteors, what are they? What are their movements? How do they
+originate? And the Sun itself, what is its composition, what is the
+source of its heat, how did it originate? Is it running down?
+
+These last questions introduce us to a branch of astronomy which is
+concerned with the physical constitution of the stars, a study which,
+not so very many years ago, may well have appeared inconceivable. But
+the spectroscope enables us to answer even these questions, and the
+answer opens up questions of yet greater interest. We find that the
+stars can be arranged in an order of development--that there are stars
+at all stages of their life-history. The main lines of the evolution of
+the stellar universe can be worked out. In the sun and stars we have
+furnaces with temperatures enormously high; it is in such conditions
+that substances are resolved into their simplest forms, and it is thus
+we are enabled to obtain a knowledge of the most primitive forms of
+matter. It is in this direction that the spectroscope (which we shall
+refer to immediately) has helped us so much. It is to this wonderful
+instrument that we owe our knowledge of the composition of the sun and
+stars, as we shall see.
+
+    "That the spectroscope will detect the millionth of a milligram of
+    matter, and on that account has discovered new elements, commands
+    our admiration; but when we find in addition that it will detect the
+    nature of forms of matter trillions of miles away, and moreover,
+    that it will measure the velocities with which these forms of matter
+    are moving with an absurdly small per cent. of possible error, we
+    can easily acquiesce in the statement that it is the greatest
+    instrument ever devised by the brain and hand of man."
+
+Such are some of the questions with which modern astronomy deals. To
+answer them requires the employment of instruments of almost incredible
+refinement and exactitude and also the full resources of mathematical
+genius. Whether astronomy be judged from the point of view of the
+phenomena studied, the vast masses, the immense distances, the æons of
+time, or whether it be judged as a monument of human ingenuity,
+patience, and the rarest type of genius, it is certainly one of the
+grandest, as it is also one of the oldest, of the sciences.
+
+
+The Solar System
+
+In the Solar System we include all those bodies dependent on the sun
+which circulate round it at various distances, deriving their light and
+heat from the sun--the planets and their moons, certain comets and a
+multitude of meteors: in other words, all bodies whose movements in
+space are determined by the gravitational pull of the sun.
+
+
+The Sun
+
+Thanks to our wonderful modern instruments and the ingenious methods
+used by astronomers, we have to-day a remarkable knowledge of the sun.
+
+Look at the figure of the sun in the frontispiece. The picture
+represents an eclipse of the sun; the dark body of the moon has screened
+the sun's shining disc and taken the glare out of our eyes; we see a
+silvery halo surrounding the great orb on every side. It is the sun's
+atmosphere, or "crown" (corona), stretching for millions of miles into
+space in the form of a soft silvery-looking light; probably much of its
+light is sunlight reflected from particles of dust, although the
+spectroscope shows an element in the corona that has not so far been
+detected anywhere else in the universe and which in consequence has been
+named Coronium.
+
+We next notice in the illustration that at the base of the halo there
+are red flames peeping out from the edges of the hidden disc. When one
+remembers that the sun is 866,000 miles in diameter, one hardly needs to
+be told that these flames are really gigantic. We shall see what they
+are presently.
+
+
+Regions of the Sun
+
+The astronomer has divided the sun into definite concentric regions or
+layers. These layers envelop the nucleus or central body of the sun
+somewhat as the atmosphere envelops our earth. It is through these
+vapour layers that the bright white body of the sun is seen. Of the
+innermost region, the heart or nucleus of the sun, we know almost
+nothing. The central body or nucleus is surrounded by a brilliantly
+luminous envelope or layer of vaporous matter which is what we see when
+we look at the sun and which the astronomer calls the photosphere.
+
+Above--that is, overlying--the photosphere there is a second layer of
+glowing gases, which is known as the reversing layer. This layer is
+cooler than the underlying photosphere; it forms a veil of smoke-like
+haze and is of from 500 to 1,000 miles in thickness.
+
+A third layer or envelope immediately lying over the last one is the
+region known as the chromosphere. The chromosphere extends from 5,000
+to 10,000 miles in thickness--a "sea" of red tumultuous surging fire.
+Chief among the glowing gases is the vapour of hydrogen. The intense
+white heat of the photosphere beneath shines through this layer,
+overpowering its brilliant redness. From the uppermost portion of the
+chromosphere great fiery tongues of glowing hydrogen and calcium vapour
+shoot out for many thousands of miles, driven outward by some prodigious
+expulsive force. It is these red "prominences" which are such a notable
+feature in the picture of the eclipse of the sun already referred to.
+
+During the solar eclipse of 1919 one of these red flames rose in less
+than seven hours from a height of 130,000 miles to more than 500,000
+miles above the sun's surface. This immense column of red-hot gas, four
+or five times the thickness of the earth, was soaring upward at the rate
+of 60,000 miles an hour.
+
+These flaming jets or prominences shooting out from the chromosphere are
+not to be seen every day by the naked eye; the dazzling light of the sun
+obscures them, gigantic as they are. They can be observed, however, by
+the spectroscope any day, and they are visible to us for a very short
+time during an eclipse of the sun. Some extraordinary outbursts have
+been witnessed. Thus the late Professor Young described one on September
+7, 1871, when he had been examining a prominence by the spectroscope:
+
+    It had remained unchanged since noon of the previous day--a long,
+    low, quiet-looking cloud, not very dense, or brilliant, or in any
+    way remarkable except for its size. At 12:30 p.m. the Professor left
+    the spectroscope for a short time, and on returning half an hour
+    later to his observations, he was astonished to find the gigantic
+    Sun flame shattered to pieces. The solar atmosphere was filled with
+    flying debris, and some of these portions reached a height of
+    100,000 miles above the solar surface. Moving with a velocity which,
+    even at the distance of 93,000,000 miles, was almost perceptible to
+    the eye, these fragments doubled their height in ten minutes. On
+    January 30, 1885, another distinguished solar observer, the late
+    Professor Tacchini of Rome, observed one of the greatest prominences
+    ever seen by man. Its height was no less than 142,000
+    miles--eighteen times the diameter of the earth. Another mighty
+    flame was so vast that supposing the eight large planets of the
+    solar system ranged one on top of the other, the prominence would
+    still tower above them.[1]
+
